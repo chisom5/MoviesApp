@@ -7,7 +7,7 @@ function getMovies(e) {
     let searchInput = document.querySelector('#searchTxt').value;
 
     //fetch data from the Api 
-    axios.get('http://www.omdbapi.com/?s=' + searchInput + '&apikey=d5d3093e')
+    axios.get('https://www.omdbapi.com/?s=' + searchInput + '&apikey=d5d3093e')
         .then((response) => {
 
             let movies = response.data.Search;
