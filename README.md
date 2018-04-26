@@ -6,4 +6,4 @@ and the other page that display the movies details when clicked.
 ## things remain to be done here are:
 
 * The second page known as movie.html.
-and for now this project can be viewed by this link 
+and for now this project can be viewed by this link https://chisom5.github.io/MoviesApp/.
