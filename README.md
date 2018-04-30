@@ -6,4 +6,9 @@ and the other page that display the movies details when clicked.
 ## things remain to be done here are:
 
 * The second page known as movie.html.
-and for now this project can be viewed by this link https://chisom5.github.io/MoviesApp/.
+* and for now this project can be viewed by this link https://chisom5.github.io/MoviesApp/ .
+
+### Challenges encountered:
+
+* I was trying to use fetch API rather than axios.
+* coding with pure JS was stressful thou.
