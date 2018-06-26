@@ -1,14 +1,14 @@
-# This is a Movie Application, implemented in VanillaJS
-this application access movie data from omdbAPI.
+# Movie App in JS using fetch Api with OmdbApi
+
+This application access movies data from omdbAPI.
 it has two html pages one that display all the movies data gotten from the api
-and the other page that display the movies details when clicked.
+and the other page that display the movie details when clicked.
 
-## things remain to be done here are:
+### You can view this app 
 
-* The second page known as movie.html.
-* and for now this project can be viewed by this link https://chisom5.github.io/MoviesApp/ .
+* Either cloning the project file and run through,
 
-### Challenges encountered:
+your local machine when their is network
 
-* I was trying to use fetch API rather than axios.
-* coding with pure JS was stressful thou.
+* or by clicking this link to preview the project https://chisom5.github.io/MoviesApp/ 
+
