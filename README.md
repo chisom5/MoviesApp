@@ -6,9 +6,8 @@ and the other page that display the movie details when clicked.
 
 ### You can view this app 
 
-* Either cloning the project file and run through,
+* clone the project file on your local machine and when their is network
+run the index.html and search for any movie
 
-your local machine when their is network
 
-* or by clicking this link to preview the project https://chisom5.github.io/MoviesApp/ 
 
